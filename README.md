@@ -2,16 +2,15 @@
 
 
 <p>💻 Analysis and Systems Development student.</p>
-🗺️ I'm from Brazil, living in São Paulo.
-📚 I love learning new things.
-📤 2021 Goals: Get an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.
+<p>📚 I love learning new things.</p>
+<p>📤 2021 Goals: Get an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.</p>
 
      Lover of Technology, Coding and Music. 💓
      
   
  ## About me
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monyke-agnes/)]
-(https://www.linkedin.com/in/monyke-agnes/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monyke-agnes-3b120320b/)]
+(https://www.linkedin.com/in/monyke-agnes-3b120320b/)
 https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/monykeagneslopes/)]
 (https://www.freecodecamp.org/monykeagneslopes)
 https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/monykelopes-4319/)]
