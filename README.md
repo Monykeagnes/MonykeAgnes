@@ -12,11 +12,11 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monyke-agnes-3b120320b/)](https://www.linkedin.com/in/monyke-agnes-3b120320b/)
 [![Freecodecamp badge](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/monykeagneslopes/)](https://www.freecodecamp.org/monykeagneslopes)
 [![Microsoft badge](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/monykelopes-4319/)](https://docs.microsoft.com/pt-br/users/monykelopes-4319/)
-[![Codepen badge](https://img.shields.io/badge/Codepen-000000?style=for-thebadge&logo=codepen&logoColor=white&link=https://codepen.io/monykeagnes/(https://codepen.io/monykeagnes)
+[![Codepen badge](https://img.shields.io/badge/Codepen-000000?style=for-thebadge&logo=codepen&logoColor=white&link=https://codepen.io/monykeagnes/)](https://codepen.io/monykeagnes)
 
 ## Languages and Tools:
 [![MonykeAgnes GitHub stats](https://github-readme-stats.vercel.app/api?username=monykeagnes)](https://github.com/monykeagnes/github-readme-stats)
-[!(Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monykeagnes&layout=compact)](https://github.com/monykeagnes/github-readme-stats)
+
 
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
