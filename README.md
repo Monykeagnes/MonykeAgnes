@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Monyke!!👋
 
-## I'm Monyke Agnes 
 
-💻 Analysis and Systems Development student.
-🗺️ I'm from Brazil, living in São Paulo.
-📚 I love learning new things.
-📤 2021 Goals: Get an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.
+\💻 Analysis and Systems Development student.
+\🗺️ I'm from Brazil, living in São Paulo.
+\📚 I love learning new things.
+\📤 2021 Goals: Get an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.
 
      Lover of Technology, Coding and Music. 💓
      
