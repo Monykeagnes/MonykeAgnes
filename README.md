@@ -10,12 +10,9 @@
   
  ## About me
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monyke-agnes-3b120320b/)](https://www.linkedin.com/in/monyke-agnes-3b120320b/)
-https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/monykeagneslopes/)]
-(https://www.freecodecamp.org/monykeagneslopes)
-https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/monykelopes-4319/)]
-(https://docs.microsoft.com/pt-br/users/monykelopes-4319/)
-https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&linkhttps://codepen.io/monykeagnes/)]
-(https://codepen.io/monykeagnes)
+[![Freecodecamp badge](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/monykeagneslopes/)](https://www.freecodecamp.org/monykeagneslopes)
+[![Microsoft badge](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/monykelopes-4319/)](https://docs.microsoft.com/pt-br/users/monykelopes-4319/)
+[![Codepen badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&linkhttps://codepen.io/monykeagnes/(https://codepen.io/monykeagnes)
 
 ## Languages and Tools:
 [![MonykeAgnes GitHub stats](https://github-readme-stats.vercel.app/api?username=monykeagnes)](https://github.com/monykeagnes/github-readme-stats)
