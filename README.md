@@ -15,7 +15,7 @@
 [![Codepen badge](https://img.shields.io/badge/Codepen-000000?style=for-thebadge&logo=codepen&logoColor=white&link=https://codepen.io/monykeagnes/)](https://codepen.io/monykeagnes)
 
 ## Languages and Tools:
-[![MonykeAgnes GitHub stats](https://github-readme-stats.vercel.app/api?username=monykeagnes)](https://github.com/monykeagnes/github-readme-stats)
+[![MonykeAgnes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monykeagnes)](https://github.com/monykeagnes/github-readme-stats)
 
 
 
