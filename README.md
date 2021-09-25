@@ -3,7 +3,7 @@
 
 <p>💻 Analysis and Systems Development student.</p>
 <p>📚 I love learning new things.</p>
-<p>📤 2021 Goals: Get an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.</p>
+<p>📤 2021 Goals: Start an internship, work with C#|.NET, create new projects, learn a front end language, increase my networking and help improve the world with technology.</p>
 
      Lover of Technology, Coding and Music. 💓
      
