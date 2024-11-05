@@ -1,7 +1,7 @@
 ### Hi there, I'm Monyke!!👋
 
 
-<p>💻 cyber defense and software engineering. student.</p>
+<p>💻 Cyber Defense and Software Engineering Student.</p>
 <p>📚 I love learning new things.</p>
 <p>📤 I am an early-career professional in Cybersecurity, with a passion for protecting information and ensuring the security of digital systems..</p>
 
