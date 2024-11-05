@@ -1,9 +1,9 @@
 ### Hi there, I'm Monyke!!👋
 
 
-<p>💻 Analysis and Systems Development student.</p>
+<p>💻 cyber defense and software engineering. student.</p>
 <p>📚 I love learning new things.</p>
-<p>📤 2021 Goals: Start an internship, work with C#|.NET, create new projects, increase my networking and help improve the world with technology.</p>
+<p>📤 I am an early-career professional in Cybersecurity, with a passion for protecting information and ensuring the security of digital systems..</p>
 
      Lover of Technology, Coding and Music. 💓
      
